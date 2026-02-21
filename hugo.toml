@@ -1,6 +1,7 @@
 baseURL = 'https://blog.yixboost.dev/'
 languageCode = 'en-us'
 title = 'Yixboost Blog'
+theme = "ananke"
 
 [caches.images]
 dir = ":cacheDir/images"
