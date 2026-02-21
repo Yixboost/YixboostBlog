@@ -1,3 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://blog.yixboost.dev/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Yixboost Blog'
+
+[caches.images]
+dir = ":cacheDir/images"
