@@ -1,0 +1,11 @@
+{
+  "staticSiteGenerator": "hugo",
+  "hugo": {
+    "preview": {
+      "command": "flatpak-spawn --host hugo server -D -p 1313"
+    },
+    "build": {
+      "command": "flatpak-spawn --host hugo"
+    }
+  }
+}
