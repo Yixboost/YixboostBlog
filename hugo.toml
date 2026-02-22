@@ -1,7 +1,24 @@
 baseURL = 'https://blog.yixboost.dev/'
 languageCode = 'en-us'
 title = 'Yixboost Blog'
-theme = "ananke"
+theme = "PaperMod"
+
+enableRobotsTXT = true
+
+[pagination]
+pagerSize = 10
+
+[params]
+defaultTheme = "dark"
+ShowReadingTime = true
+ShowShareButtons = true
+ShowPostNavLinks = true
+ShowCodeCopyButtons = true
+ShowBreadCrumbs = true
+ShowToc = true
+
+[outputs]
+home = ["HTML","RSS","JSON"]
 
 [caches.images]
 dir = ":cacheDir/images"
