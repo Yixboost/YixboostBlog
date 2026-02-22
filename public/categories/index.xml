@@ -4,7 +4,7 @@
     <title>Categories on Yixboost Blog</title>
     <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on Yixboost Blog</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>support@yixboost.dev (Yixboost)</managingEditor>
     <webMaster>support@yixboost.dev (Yixboost)</webMaster>

@@ -4,7 +4,7 @@
     <title>Tags on Yixboost Blog</title>
     <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Yixboost Blog</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>support@yixboost.dev (Yixboost)</managingEditor>
     <webMaster>support@yixboost.dev (Yixboost)</webMaster>

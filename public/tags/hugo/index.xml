@@ -4,7 +4,7 @@
     <title>Hugo on Yixboost Blog</title>
     <link>http://localhost:1313/tags/hugo/</link>
     <description>Recent content in Hugo on Yixboost Blog</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>support@yixboost.dev (Yixboost)</managingEditor>
     <webMaster>support@yixboost.dev (Yixboost)</webMaster>
@@ -15,7 +15,7 @@
       <link>http://localhost:1313/posts/setting-up-hugo/</link>
       <pubDate>Sun, 22 Feb 2026 10:13:52 +0100</pubDate><author>support@yixboost.dev (Yixboost)</author>
       <guid>http://localhost:1313/posts/setting-up-hugo/</guid>
-      <description>&lt;h2 id=&#34;setting-up-hugo-is-easy&#34;&gt;Setting up hugo is easy!&lt;/h2&gt;&#xA;&lt;p&gt;look it is workign right now (:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; hugo is working&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; actual content (:&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>Setting up hugo is easy! look it is workign right now (:&#xA;hugo is working&#xA;actual content (:</description>
     </item>
   </channel>
 </rss>
