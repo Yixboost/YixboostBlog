@@ -9,6 +9,7 @@ enableRobotsTXT = true
 pagerSize = 10
 
 [params]
+author = "the Yixboost team"
 defaultTheme = "dark"
 ShowReadingTime = true
 ShowShareButtons = true
