@@ -22,21 +22,21 @@ showCategories = true    # Show categories on post page (default: true)
 
 [params.author]
 name = "Yixboost"
-email = "support@yixboost.dev"
+email = "https://link.yixboost.dev/contact"
 avatarFirst = false
 
 [[params.social]]
 key = 0
-name = "github"
-url = "https://github.com/yixboost"
+name = "GitHub"
+url = "https://link.yixboost.dev/github"
 #icon = "fa-brands fa-github"  # Add link to your icon font to `layouts/partials/custom-head.html`
 #target = "_blank" # Defines your target option in a-href. _blank for a new Tab for example.
 #aria = "GitHub Profile" # Define the aria label for accessibility like page reader - this is better for your SEO
 
 [[params.social]]
 key = 1
-name = "email"
-url = "mailto:support@yixboost.dev"
+name = "Email"
+url = "https://link.yixboost.dev/contact"
 
 [params.styles]
 color = "green"

@@ -8,7 +8,7 @@ categories = ["misc"]
 
 ## Setting up hugo is easy!
 
-look it is workign right now (:
+look it is working right now (:
 
 - [x] hugo is working
 

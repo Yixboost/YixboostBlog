@@ -6,14 +6,14 @@
     <description>Recent content in Markdown on Yixboost Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <managingEditor>support@yixboost.dev (Yixboost)</managingEditor>
-    <webMaster>support@yixboost.dev (Yixboost)</webMaster>
-    <lastBuildDate>Sat, 21 Feb 2026 21:39:34 +0100</lastBuildDate>
+    <managingEditor>https://link.yixboost.dev/contact (Yixboost)</managingEditor>
+    <webMaster>https://link.yixboost.dev/contact (Yixboost)</webMaster>
+    <lastBuildDate>Sat, 21 Feb 2026 20:39:34 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test Post</title>
       <link>http://localhost:1313/posts/test-post/</link>
-      <pubDate>Sat, 21 Feb 2026 21:39:34 +0100</pubDate><author>support@yixboost.dev (Yixboost)</author>
+      <pubDate>Sat, 21 Feb 2026 20:39:34 +0000</pubDate><author>https://link.yixboost.dev/contact (Yixboost)</author>
       <guid>http://localhost:1313/posts/test-post/</guid>
       <description>Markdown: Syntax Overview Philosophy Inline HTML Automatic Escaping for Special Characters Block Elements Paragraphs and Line Breaks Headers Blockquotes Lists Code Blocks Horizontal Rules Span Elements Links Emphasis Code Images Miscellaneous Backslash Escapes Automatic Links Note: This document is itself written using Markdown; you can see the source for it by adding &amp;lsquo;.text&amp;rsquo; to the URL.&#xA;Overview Philosophy Markdown is intended to be as easy-to-read and easy-to-write as is feasible.</description>
     </item>

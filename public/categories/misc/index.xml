@@ -6,21 +6,21 @@
     <description>Recent content in Misc on Yixboost Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <managingEditor>support@yixboost.dev (Yixboost)</managingEditor>
-    <webMaster>support@yixboost.dev (Yixboost)</webMaster>
+    <managingEditor>https://link.yixboost.dev/contact (Yixboost)</managingEditor>
+    <webMaster>https://link.yixboost.dev/contact (Yixboost)</webMaster>
     <lastBuildDate>Sun, 22 Feb 2026 10:13:52 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/misc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Setting Up Hugo</title>
       <link>http://localhost:1313/posts/setting-up-hugo/</link>
-      <pubDate>Sun, 22 Feb 2026 10:13:52 +0100</pubDate><author>support@yixboost.dev (Yixboost)</author>
+      <pubDate>Sun, 22 Feb 2026 10:13:52 +0100</pubDate><author>https://link.yixboost.dev/contact (Yixboost)</author>
       <guid>http://localhost:1313/posts/setting-up-hugo/</guid>
-      <description>Setting up hugo is easy! look it is workign right now (:&#xA;hugo is working&#xA;actual content (:</description>
+      <description>Setting up hugo is easy! look it is working right now (:&#xA;hugo is working&#xA;actual content (:</description>
     </item>
     <item>
       <title>Test Post</title>
       <link>http://localhost:1313/posts/test-post/</link>
-      <pubDate>Sat, 21 Feb 2026 21:39:34 +0100</pubDate><author>support@yixboost.dev (Yixboost)</author>
+      <pubDate>Sat, 21 Feb 2026 20:39:34 +0000</pubDate><author>https://link.yixboost.dev/contact (Yixboost)</author>
       <guid>http://localhost:1313/posts/test-post/</guid>
       <description>Markdown: Syntax Overview Philosophy Inline HTML Automatic Escaping for Special Characters Block Elements Paragraphs and Line Breaks Headers Blockquotes Lists Code Blocks Horizontal Rules Span Elements Links Emphasis Code Images Miscellaneous Backslash Escapes Automatic Links Note: This document is itself written using Markdown; you can see the source for it by adding &amp;lsquo;.text&amp;rsquo; to the URL.&#xA;Overview Philosophy Markdown is intended to be as easy-to-read and easy-to-write as is feasible.</description>
     </item>
