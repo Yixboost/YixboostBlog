@@ -1,12 +1,12 @@
 ---
 tags:
   - blog
-title: TESTING OBSIDIAN
+title: demo post
 description: this is just a template post
 draft: true
-categories: template
+categories: test
 date: 2026-04-22T16:47:46.001Z
-lastmod: 2026-04-22T17:08:44.701Z
+lastmod: 2026-04-22T17:31:49.346Z
 ---
 # Markdown: Syntax
 

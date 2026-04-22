@@ -1,12 +1,12 @@
 ---
 tags:
   - blog
-title: TESTING OBSIDIAN
-description: this is just a template post
+title: Setting up hugo
+description: this is a post to test if hugo is working
 draft: false
-categories: template
+categories:
 date: 2026-04-22T16:48:42.541Z
-lastmod: 2026-04-22T17:26:13.118Z
+lastmod: 2026-04-22T17:27:49.342Z
 ---
 <img src="/featured-3440575066.jpg" alt="Hugo picture" width="50"/>
 
