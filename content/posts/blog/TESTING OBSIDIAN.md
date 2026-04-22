@@ -3,12 +3,12 @@ tags:
   - blog
 title: TESTING OBSIDIAN
 description: this is just a template post
-draft: true
+draft: false
 categories: template
 date: 2026-04-22T16:13:16.966Z
-lastmod: 2026-04-22T17:08:30.759Z
+lastmod: 2026-04-22T17:21:02.841Z
 ---
-This is a test post
+Obsidian is pretty cool, i can now write blogs from my notes app!
 
 ```python
 def function():
