@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Yixboost Blog</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on Yixboost Blog</description>
+    <title>Template on Yixboost Blog</title>
+    <link>http://localhost:1313/categories/template/</link>
+    <description>Recent content in Template on Yixboost Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>https://link.yixboost.dev/contact (Yixboost)</managingEditor>
     <webMaster>https://link.yixboost.dev/contact (Yixboost)</webMaster>
-    <lastBuildDate>Wed, 22 Apr 2026 17:26:13 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Apr 2026 17:25:13 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/template/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>TESTING OBSIDIAN</title>
       <link>http://localhost:1313/posts/blog/setting-up-hugo/</link>

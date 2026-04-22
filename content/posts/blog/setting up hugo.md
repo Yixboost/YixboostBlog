@@ -6,25 +6,9 @@ description: this is just a template post
 draft: false
 categories: template
 date: 2026-04-22T16:48:42.541Z
-lastmod: 2026-04-22T17:19:56.009Z
+lastmod: 2026-04-22T17:26:13.118Z
 ---
-+++
-
-title = "Setting Up Hugo"
-
-date = 2026-02-22T09:13:52.000Z
-
-draft = false
-
-tags = \[ "hugo", "tutorial" ]
-
-categories = \[ "misc" ]
-
-preview = "/featured-3440575066.jpg"
-
-+++
-
-![](/featured-3440575066.jpg)
+<img src="/featured-3440575066.jpg" alt="Hugo picture" width="50"/>
 
 ## Setting up hugo is easy!
 

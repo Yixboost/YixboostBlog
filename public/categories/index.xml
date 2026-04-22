@@ -8,6 +8,14 @@
     <language>en-us</language>
     <managingEditor>https://link.yixboost.dev/contact (Yixboost)</managingEditor>
     <webMaster>https://link.yixboost.dev/contact (Yixboost)</webMaster>
+    <lastBuildDate>Wed, 22 Apr 2026 17:25:13 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Template</title>
+      <link>http://localhost:1313/categories/template/</link>
+      <pubDate>Wed, 22 Apr 2026 16:48:42 +0000</pubDate><author>https://link.yixboost.dev/contact (Yixboost)</author>
+      <guid>http://localhost:1313/categories/template/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

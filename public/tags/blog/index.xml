@@ -8,17 +8,17 @@
     <language>en-us</language>
     <managingEditor>https://link.yixboost.dev/contact (Yixboost)</managingEditor>
     <webMaster>https://link.yixboost.dev/contact (Yixboost)</webMaster>
-    <lastBuildDate>Wed, 22 Apr 2026 16:51:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 17:25:13 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>setting up hugo</title>
+      <title>TESTING OBSIDIAN</title>
       <link>http://localhost:1313/posts/blog/setting-up-hugo/</link>
       <pubDate>Wed, 22 Apr 2026 16:48:42 +0000</pubDate><author>https://link.yixboost.dev/contact (Yixboost)</author>
       <guid>http://localhost:1313/posts/blog/setting-up-hugo/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/featured-3440575066.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;setting-up-hugo-is-easy&#34;&gt;Setting up hugo is easy!&lt;/h2&gt;&#xA;&lt;p&gt;look it is working right now (:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;[x] hugo is working&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;[ ] actual content (:&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h2 id=&#34;setting-up-hugo-is-easy&#34;&gt;Setting up hugo is easy!&lt;/h2&gt;&#xA;&lt;p&gt;look it is working right now!&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;[x] hugo is working&lt;/li&gt;&#xA;&lt;li&gt;[ ] actual content (:&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
-      <title>Demo Post</title>
+      <title>TESTING OBSIDIAN</title>
       <link>http://localhost:1313/posts/blog/demo-post/</link>
       <pubDate>Wed, 22 Apr 2026 16:47:46 +0000</pubDate><author>https://link.yixboost.dev/contact (Yixboost)</author>
       <guid>http://localhost:1313/posts/blog/demo-post/</guid>
@@ -29,7 +29,7 @@
       <link>http://localhost:1313/posts/blog/testing-obsidian/</link>
       <pubDate>Wed, 22 Apr 2026 16:13:16 +0000</pubDate><author>https://link.yixboost.dev/contact (Yixboost)</author>
       <guid>http://localhost:1313/posts/blog/testing-obsidian/</guid>
-      <description>&lt;p&gt;This is a test post&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;def&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;function&lt;/span&gt;():&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    print(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;this is python code&amp;#34;&lt;/span&gt;)&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;list&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;item one&lt;/li&gt;&#xA;&lt;li&gt;item two&lt;/li&gt;&#xA;&lt;li&gt;[ ] checkbox&lt;/li&gt;&#xA;&lt;li&gt;[x] ticked&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>&lt;p&gt;Obsidian is pretty cool, i can now write blogs from my notes app!&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;def&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;function&lt;/span&gt;():&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    print(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;this is python code&amp;#34;&lt;/span&gt;)&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;list&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;item one&lt;/li&gt;&#xA;&lt;li&gt;item two&lt;/li&gt;&#xA;&lt;li&gt;[ ] checkbox&lt;/li&gt;&#xA;&lt;li&gt;[x] ticked&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
