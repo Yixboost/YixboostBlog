@@ -5,19 +5,6 @@ title: Demo Post
 date: 2026-04-22T16:47:46.001Z
 lastmod: 2026-04-22T16:48:29.010Z
 ---
-+++
-
-title = "Test Post"
-
-date = 2026-02-21T20:39:34.000Z
-
-draft = true
-
-tags = \[ "test", "markdown" ]
-
-categories = \[ "misc" ]
-
-+++
 
 # Markdown: Syntax
 

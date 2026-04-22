@@ -46,6 +46,10 @@ color = "green"
     name = "posts"
     weight = 0
     url = "/posts"
+  [[menu.header]]
+    name = "ctf"
+    weight = 0
+    url = "https://ctfteam.yixboost.dev"
 
 [outputs]
 home = ["HTML","RSS","JSON"]
