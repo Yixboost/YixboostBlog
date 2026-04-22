@@ -1,10 +1,28 @@
 ---
 tags:
   - blog
-title: setting up hugo
+title: TESTING OBSIDIAN
+description: this is just a template post
+draft: true
+categories: template
 date: 2026-04-22T16:48:42.541Z
-lastmod: 2026-04-22T16:49:22.968Z
+lastmod: 2026-04-22T17:08:49.782Z
 ---
++++
+
+title = "Setting Up Hugo"
+
+date = 2026-02-22T09:13:52.000Z
+
+draft = false
+
+tags = \[ "hugo", "tutorial" ]
+
+categories = \[ "misc" ]
+
+preview = "/featured-3440575066.jpg"
+
++++
 
 ![](/featured-3440575066.jpg)
 

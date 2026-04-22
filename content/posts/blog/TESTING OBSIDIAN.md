@@ -2,10 +2,12 @@
 tags:
   - blog
 title: TESTING OBSIDIAN
+description: this is just a template post
+draft: true
+categories: template
 date: 2026-04-22T16:13:16.966Z
-lastmod: 2026-04-22T16:51:51.146Z
+lastmod: 2026-04-22T17:08:30.759Z
 ---
-
 This is a test post
 
 ```python
